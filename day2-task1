@@ -1,0 +1,35 @@
+1.what is python?
+  python is an interpreted,object-oriented,high-level programming language and it is a computer language often used to 
+  build websites and software,automate task and analyze data and a computer can easily understand electricity language or 
+  voltage language
+2.what is high level language in python?
+  It is for humans to understand and the coding is also quite easy
+3.what is interpreted in python?
+  Python is an interpreted language, which means the source code of a python program is converted into bytecode that is 
+  then executed by the python virtual machine
+4.what is dynamically typed language?
+  These are the languages that does not require any pre-defined data type for any variable as it is interprited at 
+  run time by the machine itself
+5.what is variable?
+  A python variable is a reserved memory location to store values
+6.what is type conversion method?
+  Python defines type conversion functions to directly convert one data type to another which is useful in day-to-day
+  and competitive programming. 
+     There are two types of Type Conversion in Python:
+      Python Implicit Type Conversion
+      Python Explicit Type Conversion
+ For implicit type conversion : the python interpreter automatically assigns a data type to a variable once it is
+                                 declared
+ For explict type conversion  : the process of manually converting a value from one data type to another using 
+                                built-in functions like int(), float(), or str().
+7.what are the data types in python?
+    Data types are the classifications or catergorization of data items. it represents the kind of value that
+    tells what operations can be performed on a particular data. since everything is an object in python programming 
+    data types are classes and variables are instance (objects) of these classes.the following are the standards 
+    or built-in data types in python.
+     . numeric
+     . sequennce type
+     . boolean
+     . set
+     . dictionary
+     . binary types (memory view, byte array ,bvytes)
